@@ -1,0 +1,6 @@
+---
+applications:
+- name: eureka-service
+  path: target/eureka-service-1.0.0-SNAPSHOT.war
+  memory: 512M
+  host: eureka-service-test
